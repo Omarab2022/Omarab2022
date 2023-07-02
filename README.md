@@ -1,8 +1,5 @@
 
-
-#Hello everyone! Nice to meet you. I'm OMAR ABARRA, and I'm currently a first-year engineering student at ENSA tetouan.<br><br>
-
-## 💫 About Me:
+# 💫 About Me:
 <br>Hello everyone! Nice to meet you. I'm OMAR ABARRA, and I'm currently a first-year engineering student at ENSA tetouan. 👨🏻‍🎓<br><br>🌟 About Me:<br><br>💡 I'm passionate about technology and software development.<br>🎓 I'm pursuing my engineering degree with a focus on software engineering and web development.<br>🌱 Right now, I'm dedicated to learning JavaScript, exploring its various frameworks and libraries, and also delving into Angular for building dynamic web applications.<br>✍️ As I progress in my studies, I'm excited to apply my knowledge and skills to real-world projects and contribute to the development community.
 
 
